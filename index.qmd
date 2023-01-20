@@ -1,0 +1,237 @@
+---
+title: "Analisis Perbandingan Luas Lahan Kopi dengan Jumlah Produksi Kopi untuk di Ekspor oleh Indonesia Tahun 2021"
+subtitle: "Metode Penelitian Politeknik APP Jakarta"
+author: "Rafika Chaerun Nissa"
+date: 2023-01-19
+number-sections: true
+format:
+  html: default
+  docx: default
+editor: visual
+---
+
+![](LOGO%20poltekapp.jpg)
+
+## Pendahuluan
+
+### Latar belakang
+
+Kopi merupakan salah satu komoditas pertkebunan yang memiliki peranan penting dalam penmbahan devisa. Di tahun 981, kopi menghasilkan devisa sebesar US\$ 347.8 juta dari ekspor kopi 210.800 ton. Berdasarkan sumber Direktorat Jenderal Perkebunan, produksi kopi Indonesia di tahun 2021 mengalami kenaikan dan penurunan di beberapa wilayah.
+
+|     |                  |     |               |     |        |     |
+|-----|------------------|-----|---------------|-----|--------|-----|
+|     | **Provinsi**     |     | **Berat/Ton** |     |        |     |
+|     |                  |     |               |     |        |     |
+|     | **2020**         |     | **2021**      |     |        |     |
+|     |                  |     |               |     |        |     |
+|     | Aceh             |     | 73.411        |     | 73.674 |     |
+|     |                  |     |               |     |        |     |
+|     | Sumatera Utara   |     | 74.997        |     | 74.512 |     |
+|     |                  |     |               |     |        |     |
+|     | Sumatera Selatan |     | 191.081       |     | 188.76 |     |
+|     |                  |     |               |     |        |     |
+|     | Jawa Barat       |     | 22.372        |     | 22.814 |     |
+|     |                  |     |               |     |        |     |
+|     | Jawa Timur       |     | 48.498        |     | 48.675 |     |
+|     |                  |     |               |     |        |     |
+
+Sumber: Direktorat Jenderal Perkebunan
+
+Era Masyarakat Ekonomi ASEAN (MEA) adalah integrasi pangsa internasional yang memungkinkan negara-negara anggotanya untuk masuk ke pasar domestik dengan bebas dengan pengurangan tarif perbatasan hingga ke nol persen (Tambunan, 2011). Integrasi ekonomi inilah yang mengakibatkan terjadinya dampak aliran bebas barang, jasa, investasi, tenaga kerja terampil, dan modal bagi negara-negara ASEAN. Kawasan ASEAN merupakan tujuan perdagangan Indonesia yang berpotensi dalam rangka meningkatkan pangsa pasar dan diversifikasi negara tujuan ekspor. Indonesia banyak mempunyai potensi untuk menjadi pelaku utama maupun tujuan perdagangan di ASEAN dengan melihat jumlah penduduk, luas wilayah, dan nilai PDB yang faktanya terbesar dikawasan tersebut. (Winantyo, 2008).
+
+Tanaman kopi merupakan komoditi ekspor yang memiliki nilai ekonomis yang cukup tinggi di pasar dunia. Di dalam perdagangan internasional, Indonesia menjadi salah satu negara pengekspor utama komoditas kopi di dunia. Tahun 2014, Indonesia menjadi negara pengekspor kopi di urutan keempat setelah Brazil, Vietnam, dan Colombia. Meskipun Indonesia tergolong sebagai salah satu negara pengekspor utama tanaman kopi, namun Indonesia masih gagal dalam memanfaatkan area lahan yang potensial untuk dapat memproduksi komoditastersebut. Hal ini terlihat dari rendahnya produktivitas produksi kopi dalam negeri. Berdasarkan FAO, produksi kopi di Indonesia tahun 2010 dan 2013 berada di peringkat ketiga setelah Brazil dan Vietnam. Indonesia menyumbang produksisebanyak 11 persen dari total produksi kopi dunia pada tahun 2013.
+
+Produktivitas kopi Indonesia masih jauh dari negara-negara pesaingnya di regional ASEAN. Meskipun Indonesia memiliki lahan panen kopi mencapai 1,2 juta hektar, di sisi lain produksi kopi hanya di angka 563 kg per hektar di tahun 2013. Berbeda dengan negara sesama ASEAN yaitu Vietnam yang memiliki lahan hanya sebesar 548 ribu hektar namun dapat mencapai titik produksi sebanyak 2.499 kg per hektar. Produktivitas kopi di Indonesia yang dinilai belum optimal dapat menyebakan kurangnya persediaan komoditi kopi yang dapat ditawarkan kepada negara yang ingin mengimpornya.
+
+Negara-negara ASEAN tidaklah menjadi negara tujuan utama ekspor kopi Indonesia, namun nilai ekspor kopi yang fluktuatif dan terjadinya integrasi ekonomi regional menunjukkan bahwa ASEAN berpotensi menjadii target pasar ekspor kopi Indonesia kedepannya. Dengan terbentuknya perjanjian dagang bebas ke depan, kopi akan semakin mudah untuk dipasarkan di negara-negara ASEAN lain. Bukan hanya bagi Indonesia, dalam perjanjian ini negara mitra juga memiliki kesempatan yang sama untuk dapat menjajakan barang negaranya di dalam pasar Indoenesia. Fenomena ini akan menimbulkan persaingan yang sangat kompetitif bagi setiap negara di ASEAN. Indonesia akan dituntut untuk terus menjadi pemain dalam perdagangan bebas ini dan Indonesia akan bertanya apa yang memperngaruhi ekspor komoditi kopi dalam negeri guna meningkatkan nilai jualnya di manca negara.
+
+### Ruang lingkup
+
+Berdasarkan latar belakang masalah, maka perlu adanya batasan masalah dalam penelitian agar hasil pembahasan tidak menyimpang ke topik lain. Pembatasan masalah tersebut diantaranya:
+
+1.  Perbandingan luas lahan tanaman kopi dengan produk yang dihasilkan
+
+<!-- -->
+
+2.  Peranan pemerintah yang mempengaruhi produktivitas komoditas kopi
+
+<!-- -->
+
+3.  Besaranekspor kopi ke negara khususnya ASEAN di tahun 2021
+
+### Rumusan masalah
+
+Berdasarkan pada permasalahan tersebut, maka dapat diasumsikan pertanyaan untuk artikel adalah sebagai berikut
+
+1.  Apakah luas lahan dan produksi kopi di Indonesia dapat dikatakan seimbang
+2.  Apakah peranan pemerintah berpengaruh terhadap produktivitas kopi di Indonesia?
+3.  Apakah Indonesia sudah stabil dalam mengirim komoditi kopi ke negara-negara lain?
+
+### Tujuan dan manfaat penelitian
+
+A. Tujuan Penelitian
+
+1.  Menganalisis keseimbangan antara luas lahan kopi di Indonesia dengan jumlah produksi yang dihasilkan
+2.  Menganalisis apa pengaruh yang menyebabkan Indonesia tidak produktif dalam memproduksi kopi
+3.  Menganalisis seberapa aktif dan besaran Indonesia mengekspor kopi ke negara-negara lain
+
+B. Manfaat Penelitian
+
+1.  Hasil penelitian ini diharapkan menjadi masukan pemikiran bagi eksportir kopi Indonesia serta para pihak yang terkait dengan kegiatan ekspor kopi di Indonesia
+2.  Penelitian ini dapat dijadikan bahan pertimbangan dalam pengambilan keputusan pada komoditas kopi di Indonesia.
+3.  Bagi penulis, penelitian ini bermanfaat dalam menambah wawasan dan  ilmu pengetahuan mengenai produk kopi, produktivitas ekspor kopi di Indonesia dan mengaplikasikan teori -- teori yang diperoleh selama perkuliahan.
+
+### Package
+
+Di dalam bab ini menguraikan secara detail tentang metode penelitian yang digunakan. Penjelasan dari variabel peneiitian dan dilanjut dengan metode analisi data. Artikel ini juga menggunakan R sebagai alat bantu pengolahan data. Package yang dipakai dalam pembahasan ini adalah *readxl* dan *tidyverse.*
+
+```{r}
+#| warning: false
+#| echo: true
+library(tidyverse)
+library(readxl)
+library(WDI) # tambahkan library lain jika diperlukan
+```
+
+## Studi pustaka
+
+**A. Produksi Kopi di Indonesia**
+
+Peluang industri kopi Indonesia memiliki potensi yang cukup besar. Dikarenakan kopi Indonesia semakin dikenal di pasar Eropa dan Amerika terkhusus untuk kopi specialty (Kementerian Pertanian, 2020). Rhinehart (2009), konsep kopi spesialti secara umum sangat sederhana yaitu dengan menggunakan iklim mikro geografis khusus yang mampu memproduksi biji kopi dengan cita rasa unik. Kopi spesialti memiliki cita rasa yang khas dan tumbuh pada daerah tertentu yang sudah dikenal bukan hanya oleh masyarakat domestik namun juga masyarakat internasional (Kementerian Pertanian, 2010). Beberapa contoh kopi spesialti di Indonesia adalah kopi Mandailing, kopi Gayo, kopi Toraja, Java Coffee, kopi Bali Kintamani, kopi Prianger, kopi Flores, dan kopi Papua. Selain memiliki ciri khas dan kualitas yang tinggi, harga kopi spesialti juga lebih tinggi dari kopi jenis biasa.
+
+Penelitian-penelitian sebelumnya menemukan bahwa kopi Indonesia mempunyai keunggulan komparatif, dengan nilai indeks RCA kopi Indonesia sebesar 5.5 atau besar dari 1. Artinya kopi Indonesia memiliki daya saing. Namun Indonesia masih kalah jika dibandingkan dengan Kolombia, Vietnam, dan Brazil. Dengan nilai RCA masing-masing negara tersebut sebesar 49.47 (Kolombia), 27.18 (Vietnam), dan 21.24 (Brazil) (Baso dan Anindita, 2018). Dilihat dari sisi produksi, produsen kopi terbesar di dunia yaitu Brazil, Vietnam, Kolombia, dan Indonesia. Indonesia berada di urutan ke empat menjadi produsen kopi terbesar di dunia pada tahun 2022 (Terlihat pada Gambar 1) dan juga menjadi negara eksportir kopi terbesar keempat di dunia tahun 2022 (ICO, 2022). Berdasarkan hal tersebut menjadikan posisi kopi menjadi salah satu komoditi unggulan pertanian. Produksi kopi Indonesia lebih banyak pada jenis kopi robusta dengan share mencapai 77.66% dan sisanya 27.34% berasal dari kopi Arabika. Kopi Indonesia utamanya diusahakan oleh perkebunan rakyat (PR) dengan persentase 96.14% atau mencapai 1.22 juta hektar terhadap luas areal kopi dari total produksi kopi Indonesia mencapai 1.26 juta hektar (Kementerian Pertanian, 2020). ![](images/Screenshot%20(421).png)
+
+## Metode penelitian
+
+**Data**
+
+Data yang digunakan oleh penulis berasal dari Badan Pusat Statistik (BPS), Website Direktorat Jenderal Pertanian Indonesia, Jurnal Ilmiah, Artikel Ilmiah yang berkaitan dengan topik yang dibahas oleh penulis. Penulis mengambil data dari tahun 2020 sampai 2021 namun penulis menekankan pada tahun 2021.
+
+```{r}
+#| label: fig-mpg
+#| fig-cap: "City and highway mileage for 38 popular models of cars.Color by number of cylinders"
+setwd('C:/METOPEL/UAS METOPEL') # AWAS SETWD-NYA PERBAIKI DULU
+library('readxl')
+library('tidyverse')
+dat<-read_excel('data2.xlsx')
+reg1<-lm(Y~X,data=dat)
+summary(reg1)
+plot(dat$Y,dat$X,xlab="produksi",ylab="luas lahan")
+```
+
+### Metode analisis
+
+Metode yang dipilih adalah regresi univariat atau Ordinary Least Square (OLS) dengan 1 variabel independen. Penelitian ini merbaksud mencari hubungan antara hwy dan cty. Spesifikasi yang dilakukan adalah:
+
+$$
+y_{t}=\beta_0 + \beta_1 x_t+\mu_t
+$$ di mana $y_t$ adalah hwy dan $x_t$ adalah cty.
+
+Di dalam bab ini menguraikan secara detail tentang metode penelitian yangdigunakan. Penjelasan dari variabel peneiitian dan dilanjut dengan metode analisi data.
+
+## Pembahasan
+
+### Pembahasan masalah
+
+Visualisasi data adalah proses menggunakan elemen visual seperti diagram, grafik, atau peta untuk merepresentasikan data. Visualisasi data menerjemahkan yang kompleks, bervolume tinggi, atau numerik menjadi representasi visual yang lebih mudah diproses. Alat visualisasi data meningkatkan dan mengotomatiskan proses komunikasi visual untuk mendapatkan akurasi dan detail.
+
+|     |        |     |        |     |
+|-----|--------|-----|--------|-----|
+|     | X      |     | Y      |     |
+|     |        |     |        |     |
+|     | 73674  |     | 125443 |     |
+|     |        |     |        |     |
+|     | 74512  |     | 95263  |     |
+|     |        |     |        |     |
+|     | 16337  |     | 29602  |     |
+|     |        |     |        |     |
+|     | 2500   |     | 4422   |     |
+|     |        |     |        |     |
+|     | 0      |     | 20     |     |
+|     |        |     |        |     |
+|     | 19718  |     | 32074  |     |
+|     |        |     |        |     |
+|     | 188760 |     | 249963 |     |
+|     |        |     |        |     |
+|     | 17     |     | 92     |     |
+|     |        |     |        |     |
+|     | 69861  |     | 86214  |     |
+|     |        |     |        |     |
+|     | 115689 |     | 156836 |     |
+|     |        |     |        |     |
+|     | 0      |     | 0      |     |
+|     |        |     |        |     |
+|     | 0      |     | 47900  |     |
+|     |        |     |        |     |
+|     | 2156   |     | 6303   |     |
+|     |        |     |        |     |
+|     | 25136  |     | 47908  |     |
+|     |        |     |        |     |
+|     | 550    |     | 1624   |     |
+|     |        |     |        |     |
+|     | 48675  |     | 89894  |     |
+|     |        |     |        |     |
+|     | 15759  |     | 34606  |     |
+|     |        |     |        |     |
+|     | 5822   |     | 12918  |     |
+|     |        |     |        |     |
+|     | 24921  |     | 72997  |     |
+|     |        |     |        |     |
+|     | 3630   |     | 11926  |     |
+|     |        |     |        |     |
+|     | 372    |     | 3157   |     |
+|     |        |     |        |     |
+|     | 1360   |     | 2576   |     |
+|     |        |     |        |     |
+|     | 198    |     | 1220   |     |
+|     |        |     |        |     |
+|     | 177    |     | 1476   |     |
+|     |        |     |        |     |
+|     | 3697   |     | 7672   |     |
+|     |        |     |        |     |
+|     | 160    |     | 1524   |     |
+|     |        |     |        |     |
+|     | 2622   |     | 9650   |     |
+|     |        |     |        |     |
+|     | 36014  |     | 78893  |     |
+|     |        |     |        |     |
+|     | 4331   |     | 15915  |     |
+|     |        |     |        |     |
+|     | 2762   |     | 8439   |     |
+|     |        |     |        |     |
+|     | 401    |     | 1362   |     |
+|     |        |     |        |     |
+|     | 8      |     | 225    |     |
+|     |        |     |        |     |
+|     | 2777   |     | 11469  |     |
+|     |        |     |        |     |
+|     | 2      |     | 27     |     |
+|     |        |     |        |     |
+
+Dari tabel diatas, variabel X merupakan besaran produksi tanaman kopi di Indonesia dan variabel Y adalah luas lahan tanaman kopi. Penulis memasukkan data 34 provinsi di Indonesia untuk dibandingkan agar dapat mengetahui keseimbangan produktivitasnya.
+
+### Analisis masalah
+
+Hasil regresinya :
+
+```{r}
+setwd('C:/METOPEL/UAS METOPEL') # AWAS SETWD-NYA PERBAIKI DULU
+library('readxl')
+library('tidyverse')
+```
+
+## Kesimpulan dan Saran
+
+Produktivitas produksi kopi di Indonesia tergolong masih tidak seimbang dibandingkan dengan negara lain yang luas lahannya lebih kecil dibanding dengan Indonesia. Faktor lahan yang semakin mengecil dan gaji para petani yang tidak terjamin membuat semakin banyak masyakarat yang mulai kehilangan minat untuk tetap berkebun kopi. Jika dilihat di tahun 2021 sampai 2022, minat kalangan muda untuk meminum dan mencicipi berbagai kopi meningkat dikala tren kopi dengan berbagai inovasi mulai berkembang. Di sisi lain, Indonesia memiliki berbagai macam kopi yang mempunyai cita rasa khas dan unik yang diminati dunia. Namun, sumber utama ketidakseimbangan produksi kopi ada di petani dan pemerintah.
+
+Saran penulis, pemerintah bisa lebih melihat peluang yang datang untuk komoditas kopi di Indonesia. Tren minum kopi di pagi hari dan tren di kalangan muda dapat digunakan sebagai ajang memperkenalkan kopi ke mata dunia. Pemerintah harus lebih memperhatikan keseuburan lahan, kemakmuran petani, dan hal lain untuk menjaga kualitas dan kuantitas kopi tetap bertumbuh. Kopi-kopi khas Indonesia bisa membawa harum nama negeri jika kopi dikenalkan dengan serius oleh pemerintahnya. Penulis juga memberi saran untuk anak muda jangan hanya meminum kopi tapi juga bisa memulai dengan membudidayakan kopi yang dirasa bisa dijadikan menjadi sebuah bisnis. Semoga kopi dari Indonesia bisa terus dikenal dan diminati dan besaran ekspor kopi dari Indonesia meningkat dan semakin menaikkan PDB serta mensejahterakan rakyat.
+
+## Referensi
+
+Fitri, M. A., Syahni, R., & Hendri, M. (2022). PERBANDINGAN INDUSTRI KOPI INDONESIA DAN MALAYSIA. *AGROVITAL: Jurnal Ilmu Pertanian*, *7*(2), 117-121.
+
+Kementerian Pertanian Direktorat Jenderal Perkebunan. Data luas lahan kopi Indonesia. Website : [[https://ditjenbun.pertanian.go.id]{.underline}](https://ditjenbun.pertanian.go.id%0d)
+
+Kusmiati, A., & Windiarti, R. (2011). Analisis wilayah komoditas kopi di Indonesia. *Jurnal Sosial Ekonomi    Pertanian (J-SEP)*, *5*(2), 47-58.
+
+Ramadhani, R. (2018). Analisis Ekspor Kopi Indonesia.
